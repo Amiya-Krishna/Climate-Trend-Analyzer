@@ -1,0 +1,7 @@
+DATA_PATH = "data/climate.csv"
+
+DATE_COLUMN = "Date"
+TEMP_COLUMN = "Temperature"
+
+FORECAST_STEPS = 12
+ANOMALY_THRESHOLD = 2
